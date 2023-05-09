@@ -1,0 +1,40 @@
+{
+    "challenges": [
+      {"name":"Level 0",
+      "images":{
+        "png":"",
+        "webp":""
+      },
+      "description":"The goal is to take all of Zouviers funds!",
+      "github":"https://github.com/devNamedKiki/OA/tree/main/src/Level0",
+      "Hint":"https://github.com/devNamedKiki/Audits/blob/main/Contests/011-m.md"
+    },
+    {"name":"Level 1",
+      "images":{
+        "png":"",
+        "webp":""
+      },
+      "description":"Can you Mint the NFT for free?",
+      "github":"https://github.com/devNamedKiki/OA/tree/main/src/Level1",
+      "Hint":"https://github.com/devNamedKiki/Audits/blob/main/Contests/003-h.md"
+    },
+    {"name":"Level 2",
+      "images":{
+        "png":"",
+        "webp":""
+      },
+      "description":"Can you force borrower to default on their loan?",
+      "github":"https://github.com/devNamedKiki/OA/tree/main/src/Level2",
+      "Hint":"https://github.com/devNamedKiki/Audits/blob/main/Contests/002-m.md"
+    },
+    {"name":"Level 3",
+      "images":{
+        "png":"",
+        "webp":""
+      },
+      "description":"Can you force borrower to default on their loan?",
+      "github":"https://github.com/devNamedKiki/OA/tree/main/src/Level2",
+      "Hint":"https://github.com/devNamedKiki/Audits/blob/main/Contests/002-m.md"
+    }
+  ]
+}
