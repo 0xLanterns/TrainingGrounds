@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/0xLanterns/TrainingGrounds/static/css/main.4c1070e4.css",
-    "main.js": "/0xLanterns/TrainingGrounds/static/js/main.c5408a6e.js",
-    "static/js/787.4c09727b.chunk.js": "/0xLanterns/TrainingGrounds/static/js/787.4c09727b.chunk.js",
-    "static/media/background-home-desktop.svg": "/0xLanterns/TrainingGrounds/static/media/background-home-desktop.f6233a6a8d2351c57f2b64289718b309.svg",
-    "index.html": "/0xLanterns/TrainingGrounds/index.html",
-    "static/media/logo.svg": "/0xLanterns/TrainingGrounds/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
-    "static/media/icon-close.svg": "/0xLanterns/TrainingGrounds/static/media/icon-close.d47fda63cbd8b3fedbbc.svg",
-    "static/media/icon-hamburger.svg": "/0xLanterns/TrainingGrounds/static/media/icon-hamburger.5273efa7c50e96ef3e51.svg",
-    "main.4c1070e4.css.map": "/0xLanterns/TrainingGrounds/static/css/main.4c1070e4.css.map",
-    "main.c5408a6e.js.map": "/0xLanterns/TrainingGrounds/static/js/main.c5408a6e.js.map",
-    "787.4c09727b.chunk.js.map": "/0xLanterns/TrainingGrounds/static/js/787.4c09727b.chunk.js.map"
+    "main.css": "/TrainingGrounds/static/css/main.ea8a7725.css",
+    "main.js": "/TrainingGrounds/static/js/main.3404799c.js",
+    "static/js/787.4c09727b.chunk.js": "/TrainingGrounds/static/js/787.4c09727b.chunk.js",
+    "static/media/background-home-desktop.svg": "/TrainingGrounds/static/media/background-home-desktop.f6233a6a8d2351c57f2b64289718b309.svg",
+    "index.html": "/TrainingGrounds/index.html",
+    "static/media/logo.svg": "/TrainingGrounds/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
+    "static/media/icon-close.svg": "/TrainingGrounds/static/media/icon-close.d47fda63cbd8b3fedbbc.svg",
+    "static/media/icon-hamburger.svg": "/TrainingGrounds/static/media/icon-hamburger.5273efa7c50e96ef3e51.svg",
+    "main.ea8a7725.css.map": "/TrainingGrounds/static/css/main.ea8a7725.css.map",
+    "main.3404799c.js.map": "/TrainingGrounds/static/js/main.3404799c.js.map",
+    "787.4c09727b.chunk.js.map": "/TrainingGrounds/static/js/787.4c09727b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c1070e4.css",
-    "static/js/main.c5408a6e.js"
+    "static/css/main.ea8a7725.css",
+    "static/js/main.3404799c.js"
   ]
 }
